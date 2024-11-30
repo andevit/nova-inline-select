@@ -1,5 +1,5 @@
 {
-    "name": "kirschbaum-development/nova-inline-select",
+    "name": "andevit/nova-inline-select",
     "description": "An inline select field for Laravel Nova apps.",
     "keywords": [
         "laravel",
